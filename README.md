@@ -1,1 +1,1 @@
-Implementation if three different RNGs using QCA.
+**Implementation of three different RNGs using QCA.**
